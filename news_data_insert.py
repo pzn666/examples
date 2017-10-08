@@ -3,7 +3,7 @@ from pprint import pprint
 import json
 import file
 
-NEWS_DATA_PATH = '/Users/pzn666/Documents/WorkSpace/FocalDatas/news_100k.json'
+NEWS_DATA_PATH = '/Users/pzn666/Documents/WorkSpace/FocalDatas/lastest_100000.json'
 news_datas = []
 with open(NEWS_DATA_PATH, 'r', encoding='utf-8', errors='ignore') as f:
     raw_data = f.readlines()

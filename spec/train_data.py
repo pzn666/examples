@@ -15,8 +15,8 @@
     "share_count": null,
     "category": "國際",
     'custom_corpus': {
-        "account": "ifocal",
-        "project_name": "中石化",
+        "account": ["ifocal", "alfa"],
+        "project_name": ["中石化", "yoyo"],
         'keyword': {
             '公司/產業': {
                 'pos': ['1314', '中石化', ...],
